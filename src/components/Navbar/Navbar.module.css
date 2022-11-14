@@ -1,0 +1,58 @@
+
+.color_ligth{
+    color:white;
+}
+
+.color_dark{
+    color:black
+}
+.color_uai{
+    color: #75243A;
+}
+.text_decoration_none{
+    text-decoration: none;
+}
+
+.bg_dark{
+    background-color: rgb(34, 34, 34);
+    color: white;
+}
+.bg_uai:hover{
+    background-color: #8a2b45;
+}
+.list_style_none{
+    list-style: none;
+}
+
+/* FLEX */
+
+.display_flex{
+    display: flex;
+}
+
+.justify_content_space_around{
+    justify-content: space-around;
+}
+.justify_content_center{
+    justify-content: center;
+}
+.align_item_center{
+    align-items: center;
+}
+
+.height_100{
+    height: 90%;
+}
+
+.padding_2{
+    padding: 10px;
+}
+.width_100{
+    width: 100%;
+}
+.text_align_center{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}

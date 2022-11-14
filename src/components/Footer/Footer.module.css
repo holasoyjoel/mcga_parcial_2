@@ -1,0 +1,17 @@
+.bg_uai{
+    background-color: #75243A;
+}
+.color_ligth{
+    color: white;
+}
+.text_align_center{
+    text-align: center;
+}
+
+.width_100{
+    width: 100vh;
+}
+.position_absolute{
+    position: relative;
+    top: 100vh;
+}

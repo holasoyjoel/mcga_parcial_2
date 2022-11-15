@@ -1,6 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 import About from "../About/About";
 import Home from "../Home/Home";
+import Productos from "../Productos/Productos";
 import Recursos from "../Recursos/Recursos";
 
 const Body = ()=>{
@@ -8,6 +9,7 @@ const Body = ()=>{
             <Routes>
                 <Route exact path='/recursos' element={<Recursos/>}></Route>
                 <Route exact path='/about' element={<About/>}></Route>
+                <Route exact path='/productos' element={<Productos/>}></Route>
                 <Route exact path='/' element={<Home/>}></Route>
             </Routes>
     )
